@@ -2,6 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
+//    hi
     public static void main(String[] args) {
 
         user(10, 28);
